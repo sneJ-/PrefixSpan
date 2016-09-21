@@ -1,0 +1,4 @@
+/target/
+/files/
+/data/
+*.tsv
